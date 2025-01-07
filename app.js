@@ -189,7 +189,7 @@ sum(50, 20, (sum) => {
 //     document.getElementById("lblTotal-03").innerText = sum;
 // }));
 
-document.getElementById("totalButton").addEventListener("click",() => {
+document.getElementById("totalButton").addEventListener("click", () => {
     const num1 = 50;
     const num2 = 50;
     const sum = num1 + num2;
